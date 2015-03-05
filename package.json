@@ -1,0 +1,19 @@
+{
+  "name": "excel-shiphawk",
+  "description": "Shiphawk office app for outlook used in office 365 hackathon at ngconf 2015",
+  "version": "0.1.0",
+  "main": "server.js",
+  "scripts": {
+    "init": "npm install",
+    "install": "bower install"
+  },
+  "author": {
+    "name": "Sol Tran, Adrian Kim",
+    "email": "soltran@me.com",
+    "url": "http://www.soltran.rocks"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.2"
+  }
+}
